@@ -12,7 +12,7 @@ require (
 	github.com/dennwc/varint v1.0.0
 	github.com/dgryski/go-sip13 v0.0.0-20200911182023-62edffca9245
 	github.com/digitalocean/godo v1.86.0
-	github.com/docker/docker v25.0.2+incompatible
+	github.com/docker/docker v25.0.5+incompatible
 	github.com/edsrzf/mmap-go v1.1.0
 	github.com/envoyproxy/go-control-plane v0.12.0
 	github.com/envoyproxy/protoc-gen-validate v1.0.2
@@ -69,7 +69,7 @@ require (
 	google.golang.org/api v0.149.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20231106174013-bbf56f31fb17
 	google.golang.org/grpc v1.61.0
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
