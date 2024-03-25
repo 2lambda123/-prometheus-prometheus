@@ -9,7 +9,7 @@ require (
 	github.com/influxdata/influxdb v1.11.4
 	github.com/prometheus/client_golang v1.19.0
 	github.com/prometheus/common v0.51.1
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
