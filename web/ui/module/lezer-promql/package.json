@@ -32,10 +32,10 @@
   "devDependencies": {
     "@lezer/generator": "^1.6.0",
     "@lezer/lr": "^1.2.3",
-    "@lezer/highlight": "^1.1.0"
+    "@lezer/highlight": "^1.2.0"
   },
   "peerDependencies": {
     "@lezer/lr": "^1.2.3",
-    "@lezer/highlight": "^1.1.0"
+    "@lezer/highlight": "^1.2.0"
   }
 }
